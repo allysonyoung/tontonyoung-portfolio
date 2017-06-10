@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.nav-menu {
+  display: flex;
+  justify-content: center;
+  margin: 185px 0 30px;
+}
+
+.nav-menu-button {
+  background-color: #3CB371;
+  border: 2px solid #9dd9b8;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+  font: bold 15px 'Lato';
+  padding: 10px 20px;
+  margin-right: 8px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.nav-menu-button:hover {
+  background-color: #9dd9b8;
+}
+
+
+.index-title {
+  font: 48px 'Merriweather', serif;
+  text-align: center;
+}
+
+.index-subtitle {
+  border-top: 5px solid #587272;
+  color: #587272;
+  font: 24px 'Merriweather', serif;
+  margin: 0 auto;
+  padding-top: 15px;
+  text-align: center;
+  width: 30%
+}

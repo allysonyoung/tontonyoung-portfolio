@@ -1,0 +1,25 @@
+{
+  "name": "tontonyoung-portfolio",
+  "version": "0.0.1",
+  "description": "Tonton Young's Portfolio Site",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allysonyoung/tontonyoung-portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Allyson Young",
+  "bugs": {
+    "url": "https://github.com/allysonyoung/tontonyoung-portfolio/issues"
+  },
+  "homepage": "https://github.com/allysonyoung/tontonyoung-portfolio#readme"
+}
